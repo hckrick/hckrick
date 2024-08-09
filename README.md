@@ -1,5 +1,5 @@
 
-## Olá! Muito Prazer, sou o Rick, tambem conhecido como Hck_Rick 😎
+## Olá! Muito Prazer, sou o Rick, tambem conhecido como Cyber_Rick 😎
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hck_rick)
 
 
