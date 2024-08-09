@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hck_rick)
 
 
-![Cyber_Rick](https://github-readme-stats.vercel.app/api?username=Cyber_Rick&show_icons=true&theme=dracula&count_private=true)
+![Cyber_Rick](https://github-readme-stats.vercel.app/api?username=hckrick&show_icons=true&theme=dracula&count_private=true)
 
 
 ## Sistemas Operacionais que utilizo no meu dia
